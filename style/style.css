@@ -261,7 +261,12 @@ body {
   .container {
     width: 90%;
   }
-
+  .one{
+    font-size: 50px;
+  } 
+  .two{
+    font-size: 30px;
+  }
   .four .text-box {
     width: 90%;
   }
